@@ -97,7 +97,7 @@ def handle_query(query):
         speak("I am Epex, your personal virtual assistant created to make your life easier and more fun.")
 
     elif "who is your creator" in query:
-        speak("I  created by Sukhvir, a passionate developer who loves smart and creative solutions.")
+        speak("I created by Sukhvir, a passionate developer who loves smart and creative solutions.")
 
     elif "exit" in query:
         speak("Goodbye! Have a nice day.")
