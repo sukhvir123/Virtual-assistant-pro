@@ -1,3 +1,5 @@
+# only works on python 3.12 version 
+
 import pyautogui
 import speech_recognition as sr
 import datetime
