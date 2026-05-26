@@ -15,7 +15,7 @@ from urllib.parse import quote
 import win32com.client 
 
 # ------------------- API KEY -------------------
-API_KEY = "89a212761a3ce4f0e75541c20ef6abcb"
+API_KEY = " your API key"
 
 # ------------------- SPEAK -------------------
 def speak(text):
